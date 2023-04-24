@@ -2,10 +2,10 @@
   "name": "shopbooks-team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Hruchman-Ruslan.github.io/shopbooks-team-project",
+  "homepage": "https://GoitStudentsWorks.github.io/JS-72-Hruchman-Ruslan",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /shopbooks-team-project/"
+    "build": "parcel build src/*.html --public-url /JS-72-Hruchman-Ruslan/"
   },
   "repository": {
     "type": "git",
